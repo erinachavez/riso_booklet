@@ -1,0 +1,16 @@
+# general #
+###########
+.DS_Store
+.DS_Store?
+
+# directories #
+###############
+final_booklets
+
+# specific files #
+##################
+pixelated/pixelated_notes.js
+redraw/REDRAW_large.png
+ripples/IMG_2838.kra
+ripples/IMG_2838.png
+booklet_video.mov
